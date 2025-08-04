@@ -1,4 +1,4 @@
-# Advanced Analytics: Linear Optimization in Production Planning 📊⚙️
+# Advanced Analytics & Optimization: Production Planning and Cost Minimization
 
 ## Overview
 
