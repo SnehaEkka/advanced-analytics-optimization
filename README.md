@@ -1,4 +1,5 @@
-# Advanced Analytics & Optimization: Production Planning and Cost Minimization
+# Advanced Analytics & Optimization
+## Production Planning and Cost Minimization
 
 ## Overview
 
