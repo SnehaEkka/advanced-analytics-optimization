@@ -1,8 +1,13 @@
-# Advanced Analytics & Optimization: Production Planning and Cost Minimization
+# Advanced Analytics: Linear Optimization in Production Planning 📊⚙️
 
 ## Overview
 
-This repository contains end-to-end solutions for core optimization problems in production coordination and resource allocation. Using both Excel (Solver) and Python (Pyomo), the models demonstrate how linear programming can drive informed, data-backed decisions in manufacturing and facilities management. This exercise is designed as a practical introduction to modern operations research methods.
+This repository contains end-to-end solutions for core optimization problems in production coordination and resource allocation. The models demonstrate how linear programming can drive informed, data-backed decisions in manufacturing and facilities management. This exercise is designed as a practical introduction to modern operations research methods.
+
+## 🔧 Tools Used
+- Python (Pynamo, Pandas, NumPy)
+- Jupyter Notebook for interactive modeling
+- Excel (Solver)
 
 ## Business Objective
 
@@ -12,19 +17,18 @@ To guide effective resource allocation and cost minimization, this analysis answ
 
 By structuring real business goals as mathematical models and solving them with industry-standard optimization software, businesses translate strategy into operational action, control costs, and efficiently meet requirements.
 
-## Contents
+This type of optimization model mirrors real-world tradeoffs businesses face in manufacturing, operations, and supply chain planning.
+
+## What You’ll Find Here
 
 - **BA885-Ex-1-Optimization-Solution.ipynb**  
-  Python (Pyomo) notebook for fertilizer purchase plan optimization problem.
+  Python (Pyomo) notebook for fertilizer purchase plan optimization problem. A clean, reproducible Python implementation for formulating and solving the linear program.
 
 - **BA885-Ex-1-Optimization-Solution.xlsx**  
-  Excel (Solver) spreadsheets: both advertising/production planning (Q1) and fertilizer purchasing (Q2).
+  Excel (Solver) spreadsheets: both advertising/production planning and fertilizer purchasing. Clear representation of business constraints in mathematical terms.
 
 - **BA885-Ex-1-Report.pdf**  
-  Homework responses, model formulations, and detailed solution summaries (across both Q1, Q2).
-
-- **BA885-Ex-1-Guidlelines.pdf**  
-  Assignment instructions, including background, requirements, and context for all tasks.
+  Scenario analysis to test the sensitivity of profit outcomes based on resource adjustments, model formulations, and detailed solution summaries. 
 
 ## Methods & Analysis
 
@@ -57,7 +61,7 @@ By structuring real business goals as mathematical models and solving them with 
 
 ## Business Impact & Interpretation
 
-- These optimization models demonstrate how data and analytics directly support operational and strategic objectives—from manufacturing throughput and promotional budgeting to procurement of essential supplies.
+- These optimization models demonstrate how data and analytics directly support operational and strategic objectives from manufacturing throughput and promotional budgeting to procurement of essential supplies.
 - Results facilitate scenario analysis, sensitivity testing, and communications with decision-makers for better-informed, evidence-based management.
 
 ## How to Use
@@ -84,4 +88,12 @@ By structuring real business goals as mathematical models and solving them with 
 - **Completed:** Fall 2024  
 - **Course:** Advanced Analytics II – Applied Optimization (BA885), Boston University MSBA
 
-*This repository provides practical reference solutions for common optimization scenarios in production planning and procurement—bridging mathematical rigor with business value.*
+## 💡 Why This Matters
+
+At the heart of business analytics is the ability to **translate ambiguity into mathematical clarity**. This project reflects the skillset required to tackle real operational questions such as:
+
+- How can we align production goals with cost and resource constraints?
+- What’s the most profitable product mix under limited capacity?
+- How do resource bottlenecks impact overall business outcomes?
+
+*This exercise showcases my comfort with **formulating and solving optimization problems**, as well as translating analytical solutions into **tangible business impact**: skills that are critical in both **analytics consulting** and **data engineering roles** where scalable, insight-driven systems are key.*
